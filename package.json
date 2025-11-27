@@ -13,7 +13,7 @@
     "react-gantt": "^2.1.8",
     "react-gantt-antd": "^1.0.9",
     "react-gantt-timeline": "^0.4.3",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
